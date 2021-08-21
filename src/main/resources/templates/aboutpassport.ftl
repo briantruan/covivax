@@ -117,6 +117,23 @@
     vaccinations, tests, and previous infections are a necessary step forward towards efficiency, outweighing
     legal,
     ethical, and equity concerns.</p>
+<p class="padding" style="text-align: left">While the two out of many United States governors mentioned have banned
+    COVID-19
+    vaccination passports out of concern for violations to autonomy and American liberty, passports rather promote those
+    freedoms. In most democratic governments and republics, citizens have basic rights and liberties regardless of
+    status. As a result of COVID-19, states implemented lockdowns, limiting access to religious services, enjoying
+    public arts, and other nonessential activities. These would typically be considered threats, in the context of the
+    United States, to our constitutional right to, for example, freedom of religion. In some cases, states included
+    exclusions for those rights due to legal retaliation, <a
+            href="https://www.usatoday.com/story/news/politics/2020/11/26/religious-freedom-supreme-court-blocks-covid-limits-n-y-churches/3767379001/">such
+        as in New York.</a> As new variants of the coronavirus,
+    such as Delta, gain traction because of its contagiousness, vaccine passports would incentivize others to get
+    vaccinated and enjoy freedoms freely while achieving herd immunity in communities. “Vaccine passports bridging the
+    period to herd immunity would increase both liberty and safety, while responsibly catalyzing a return to (near)
+    normalcy.” <a href="https://jnm.snmjournals.org/content/jnumed/62/6/771.full.pdf">(source)</a> Therefore, imposing
+    vaccination passports has never been a legal issue, but an issue of erroneously
+    defining “unconstitutional.”</p>
+<p class="padding" style="text-align: left">test</p>
 <p class="padding" style="text-align: left">test</p>
 <br>
 </body>

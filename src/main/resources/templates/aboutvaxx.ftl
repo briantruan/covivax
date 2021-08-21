@@ -11,6 +11,7 @@
         padding-left: 2cm;
         padding-right: 2cm;
     }
+
     .sidebar {
         margin: 0;
         padding: 0;
@@ -55,8 +56,14 @@
             height: auto;
             position: relative;
         }
-        .sidebar a {float: left;}
-        div.content {margin-left: 0;}
+
+        .sidebar a {
+            float: left;
+        }
+
+        div.content {
+            margin-left: 0;
+        }
     }
 
     /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
@@ -79,7 +86,9 @@
 <img src="/static/covivax-logo.png" width="150" height="150">
 <hr>
 <h2>About the COVID-19 Vaccination</h2>
-<p class="padding" style="text-align: left" >test</p>
+<p class="padding" style="text-align: left">Vaccinations Worldwide</p>
+<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&facet=none&pickerSort=asc&pickerMetric=location&Metric=People+vaccinated+%28by+dose%29&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=SGP~QAT~URY~DNK~CHL~PRT~ESP~CAN~BEL~IRL~CHN~IND~USA~IDN~PAK~BRA~NGA~BGD~RUS~MEX~JPN~ETH~PHL~EGY~VNM~TUR~IRN~DEU~THA~GBR~FRA~ITA~TZA~ZAF~MMR~OWID_WRL&hideControls=true"
+        loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 <br>
 </body>
 </html>
