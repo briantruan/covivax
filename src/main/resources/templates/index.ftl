@@ -71,10 +71,11 @@
     <a href="/about"><i class="fas fa-info-circle"></i></a>
     <a href="/aboutvaxx"><i class="fas fa-syringe"></i></a>
     <a href="/aboutpassport"><i class="fas fa-passport"></i></a>
+    <a href="/sources"><i class="fas fa-book"></i></a>
     <a href="https://github.com/briantruan/covivax"><i class="fab fa-github"></i></a>
 </div>
 <img src="/static/covivax-logo.png" width="150" height="150">
-<p><i>Built using Kotlin, Ktor, and Freemarker for Honors 240: Wellness</i></p>
+<p><i>A COVID-19 vaccination passport app built with Kotlin, Ktor, and Freemarker.</i></p>
 <p><b>NOTE: </b>Proof-of-concept only. Do not use for official purposes.</p>
 <hr>
 <#list individuals as individual>
@@ -106,7 +107,7 @@
     <div class="rendered-form">
         <div class="">
             <h2 access="false" id="control-4005200">Record a Vaccination</h2></div>
-        <p><i>Enter dates in YYYY-MM-DD format or else the website will crash.</i></p>
+        <p><i>On desktop browsers, date format must be <b>YYYY-MM-DD</b> or the website will crash.</i></p>
         <div class="formbuilder-text form-group field-text-1629481497184">
             <label for="text-1629481497184" class="formbuilder-text-label">Last Name<span
                         class="formbuilder-required">*</span></label>

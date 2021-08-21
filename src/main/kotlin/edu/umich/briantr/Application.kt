@@ -34,6 +34,9 @@ fun Application.module() {
         get("/aboutpassport") {
             call.respond(FreeMarkerContent("aboutpassport.ftl", null, ""))
         }
+        get("/sources") {
+            call.respond(FreeMarkerContent("sources.ftl", null, ""))
+        }
         post("/submit") {
             val param = call.receiveParameters()
             val lastName = param["text-1629481497184"] ?: return@post call.respond(HttpStatusCode.BadRequest)
@@ -78,6 +81,13 @@ fun Application.module() {
             }
             call.respond(FreeMarkerContent("submit.ftl", null, ""))
         }
+        /*
+        I don't know what I'm doing here. Trying to add update/delete functions to complete CRUD app.
+
+        delete("/edit/{id}") {
+
+        }
+         */
         static("/static") {
             resources("files")
         }

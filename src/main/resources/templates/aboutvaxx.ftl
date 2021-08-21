@@ -81,14 +81,16 @@
     <a href="/about"><i class="fas fa-info-circle"></i></a>
     <a href="/aboutvaxx"><i class="fas fa-syringe"></i></a>
     <a href="/aboutpassport"><i class="fas fa-passport"></i></a>
+    <a href="/sources"><i class="fas fa-book"></i></a>
     <a href="https://github.com/briantruan/covivax"><i class="fab fa-github"></i></a>
 </div>
 <img src="/static/covivax-logo.png" width="150" height="150">
 <hr>
 <h2>About the COVID-19 Vaccination</h2>
-<p class="padding" style="text-align: left">Vaccinations Worldwide</p>
+<p class="padding" style="text-align: center"><i>Internet access is required for vaccination data to appear.</i></p>
+<br>
 <iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&facet=none&pickerSort=asc&pickerMetric=location&Metric=People+vaccinated+%28by+dose%29&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=SGP~QAT~URY~DNK~CHL~PRT~ESP~CAN~BEL~IRL~CHN~IND~USA~IDN~PAK~BRA~NGA~BGD~RUS~MEX~JPN~ETH~PHL~EGY~VNM~TUR~IRN~DEU~THA~GBR~FRA~ITA~TZA~ZAF~MMR~OWID_WRL&hideControls=true"
-        loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        loading="lazy" style="width: 80%; height: 800px; border: 0 none;"></iframe>
 <br>
 </body>
 </html>
