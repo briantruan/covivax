@@ -70,6 +70,7 @@
     <a href="/about"><i class="fas fa-info-circle"></i></a>
     <a href="/aboutvaxx"><i class="fas fa-syringe"></i></a>
     <a href="/aboutpassport"><i class="fas fa-passport"></i></a>
+    <a href="https://github.com/briantruan/covivax"><i class="fab fa-github"></i></a>
 </div>
 <img src="/static/covivax-logo.png" width="150" height="150">
 <hr>
