@@ -87,10 +87,29 @@
 <img src="/static/covivax-logo.png" width="150" height="150">
 <hr>
 <h2>About the COVID-19 Vaccination</h2>
-<p class="padding" style="text-align: center"><i>Internet access is required for vaccination data to appear.</i></p>
+<p class="padding" style="text-align: center"><i>Internet access is required for vaccination data to appear. This
+        process can take up to 10 seconds.</i></p>
+<br>
+<h4 style="text-align: center"><b>Worldwide Vaccinations</b></h4>
 <br>
 <iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&facet=none&pickerSort=asc&pickerMetric=location&Metric=People+vaccinated+%28by+dose%29&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=SGP~QAT~URY~DNK~CHL~PRT~ESP~CAN~BEL~IRL~CHN~IND~USA~IDN~PAK~BRA~NGA~BGD~RUS~MEX~JPN~ETH~PHL~EGY~VNM~TUR~IRN~DEU~THA~GBR~FRA~ITA~TZA~ZAF~MMR~OWID_WRL&hideControls=true"
         loading="lazy" style="width: 80%; height: 800px; border: 0 none;"></iframe>
+<br>
+<h4 style="text-align: center;"><b>University of Michigan Vaccinations</b></h4>
+<br>
+<script type='text/javascript' src='https://tableau.dsc.umich.edu/javascripts/api/viz_v1.js'></script>
+<div class='tableauPlaceholder' style='width: 1024px; height: 1077px;'>
+    <object class='tableauViz' width='1024' height='1077' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Ftableau.dsc.umich.edu%2F'/>
+        <param name='embed_code_version' value='3'/>
+        <param name='site_root' value='&#47;t&#47;UM-Public'/>
+        <param name='name' value='U-MCovid19StudentVaccine&#47;PUBLICThermometer'/>
+        <param name='tabs' value='no'/>
+        <param name='toolbar' value='yes'/>
+        <param name='showAppBanner' value='false'/>
+        <param name='display_spinner' value='yes'/>
+    </object>
+</div>
 <br>
 </body>
 </html>

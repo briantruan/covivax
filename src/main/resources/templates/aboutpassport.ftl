@@ -134,7 +134,20 @@
     normalcy.” <a href="https://jnm.snmjournals.org/content/jnumed/62/6/771.full.pdf">(source)</a> Therefore, imposing
     vaccination passports has never been a legal issue, but an issue of erroneously
     defining “unconstitutional.”</p>
-<p class="padding" style="text-align: left">test</p>
+<p class="padding" style="text-align: left">Constitutional law is of rather small importance when discussing legal and
+    ethical issues with vaccination passports. A hot topic in 2021, privacy remains of the utmost concern, especially
+    when sensitive personal data is at stake. Everyone is protected by the Health Insurance Portability and
+    Accountability Act (HIPAA)— health privacy laws. A primary concern is the storage of private information in a
+    vaccination passport app, dividing citizens into the vaccinated and unvaccinated class. <a
+            href="http://www.aulawreview.org/au_law_review/wp-content/uploads/2021/05/Mohapatra.to_.Printer.pdf">However,
+        HIPAA has limited
+        applications,</a> since only two groups are protected by these laws: covered entities, such as hospitals, and
+    business
+    associates, such as insurers. Tech companies and app developers are not restricted. People are well within their
+    rights to be concerned about privacy in this case since it is up to these organizations to protect and ensure proper
+    security. Thus, to use and distribute vaccination passport apps at an individual level ethically and legally,
+    companies must introduce and uphold detailed privacy policies and ideally store data on-device (and not on a
+    server).</p>
 <p class="padding" style="text-align: left">test</p>
 <br>
 </body>
