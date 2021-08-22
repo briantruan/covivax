@@ -98,7 +98,7 @@
 <h4 style="text-align: center;"><b>University of Michigan Vaccinations</b></h4>
 <br>
 <script type='text/javascript' src='https://tableau.dsc.umich.edu/javascripts/api/viz_v1.js'></script>
-<div class='tableauPlaceholder' style='width: 1024px; height: 1077px;'>
+<div class='tableauPlaceholder' style='width: 80%; height: 1077px; margin: auto'>
     <object class='tableauViz' width='1024' height='1077' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Ftableau.dsc.umich.edu%2F'/>
         <param name='embed_code_version' value='3'/>
